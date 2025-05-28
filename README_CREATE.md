@@ -61,6 +61,12 @@ export function customPlugin(): HvigorPlugin {
 export { customPlugin } from './src/plugin/custom-plugin';
 ```
 
+6、在终端执行npm pack命令，在plugin目录下就生成了plugin-1.0.0.tgz文件。
+
+```
+npm pack
+```
+
 ### 发布插件
 
 1、 配置registry。 在用户目录下创建.npmrc文件，配置您需要发布的镜像仓库。
