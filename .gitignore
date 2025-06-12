@@ -1,14 +1,5 @@
 /node_modules
 /oh_modules
-/refresh
-/global
-/loading
-/open-photo
-/dialog
-/network
-/location
-/location
-/hvigor-arkts-gen-model
 /local.properties
 /.idea
 **/build
